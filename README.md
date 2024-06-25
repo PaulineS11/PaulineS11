@@ -24,7 +24,7 @@
   </h1>
   <p>DATA ANALYST JUNIOR (pour vous servir)</p>
   <p id="citation">Grâce à un BOOTCAMP de 5 mois à temps plein effectué avec la WILD CODE SCHOOL qui pratique l'apprentissage intensif au moyen de cas concrets avec une bonne dose de challenge.</p>
-  <a class="btn btn-red" href="https://github.com/PaulineS11" target="_blank">Voir mes projets</a>
+  <a class="btn btn-red" href="https://github.com/PaulineS11?tab=repositories" target="_blank">Voir mes projets</a>
 </div>
 
   <!-- Section Objectif -->
